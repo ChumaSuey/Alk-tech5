@@ -10,6 +10,8 @@
 "sounds" "120"
 "message" "Club Niggurath"
 "autojump" "1"
+"fog" "0.045"
+"fog_color" "176 171 22"
 // brush 0
 {
 ( -320 -64 -16 ) ( -320 -63 -16 ) ( -320 -64 -15 ) Rw34_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
