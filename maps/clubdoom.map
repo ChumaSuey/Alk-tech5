@@ -4689,7 +4689,7 @@
 // entity 94
 {
 "classname" "path_angry"
-"origin" "-2088 3064 312"
+"origin" "-2104 3064 312"
 "target" "pa0103"
 "targetname" "pa0102"
 }
@@ -4769,7 +4769,7 @@
 // entity 108
 {
 "classname" "path_angry"
-"origin" "-2632 2168 344"
+"origin" "-2632 2120 344"
 "targetname" "pa0200"
 "target" "pa0201"
 }
