@@ -47,9 +47,12 @@ Alongside this map i started working on a Doom TNT Wormhole map Quake Alkaline v
 
 Sadly, this project never went through, and this level remained finished in my drive for over 2 years (since 2024), the reason i made it with the intention to be a secret level in a custom level pack (the one i mentioned, it was just called TechEpisode not much else was done aside from what i've written)
 
-What i can comment about the club doom map (Club Niggurath) behind the scenes facts is that : It's a full recreation maybe with slight changes in the ending and the part where shub appears... In this map i also found a bug where killtargetting an enemy didn't account it in the kill count and bmFbr fixed it.
+What i can comment about the club doom map (Club Niggurath) behind the scenes facts is that : It's an adaptable recreation with slight changes in the ending and the part where shub appears... In this map i also found a bug where killtargetting an enemy didn't account it in the kill count and bmFbr fixed it.
 
 It was mean't to be a quick and fun level... there's also the hub map for difficulty selection and "chumastic inner peace moment", have fun... Excelsior! best vibes and wishes to everyone!
+
+I wanted to leave the map untouched but i adjusted it before launch : i added a specific ambient light fix, the trigger sequences in the main dance hall
+had some delay applied to adjust the rhythm and just a small cell ammo... Otherwise the map is still 2024 Chuma's work, proud of you old version!
 
 Thanks DevSEb for always collaborating with me, you are awesome, and a very talented musician, keep shining always!
 
