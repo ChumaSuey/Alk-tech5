@@ -43,13 +43,13 @@ DevSEb
 
 This map was finished in 2024, originally the idea was to remake this level as a short experience, and then i had the idea to make with NewHouse a small level pack of Doom TNT levels made into Quake... also part of this idea was the "The System Control" map remake.
 
-Alongside this map i started working on a Doom TNT Wormhole map Quake Alkaline version that i never finished, where also DevSEb made a track for it, and there was a planned Doom TNT Pharaoh map remake idea on the table.
+Alongside this map i started working on a Doom TNT Wormhole map Quake Alkaline version that i never finished, where also DevSEb made a track for it, and there was a planned Doom TNT Pharaoh map remake idea on the table after finishing wormhole.
 
-This project never went through and this level stuck in my drive finished... for over 2 years, the reason i made it was mean't with the intention to be a secret level in an custom level pack (the one i mentioned, it was just called TechEpisode not much else was done aside from what i've written)
+Sadly, this project never went through, and this level remained finished in my drive for over 2 years (since 2024), the reason i made it with the intention to be a secret level in a custom level pack (the one i mentioned, it was just called TechEpisode not much else was done aside from what i've written)
 
-What i can comment about the club doom map behind the scenes fact is that is a full recreation maybe with slight changes in the ending and the part where shub appears... In this map i also found a bug where killtargetting an enemy didn't account it in the kill count.
+What i can comment about the club doom map (Club Niggurath) behind the scenes facts is that : It's a full recreation maybe with slight changes in the ending and the part where shub appears... In this map i also found a bug where killtargetting an enemy didn't account it in the kill count and bmFbr fixed it.
 
-It's mean't to be a quick and fun level... there's also the hub map, have fun... Excelsior! best vibes and wishes to everyone!
+It was mean't to be a quick and fun level... there's also the hub map for difficulty selection and "chumastic inner peace moment", have fun... Excelsior! best vibes and wishes to everyone!
 
 
 ### Special thanks
