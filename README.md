@@ -51,6 +51,8 @@ What i can comment about the club doom map (Club Niggurath) behind the scenes fa
 
 It was mean't to be a quick and fun level... there's also the hub map for difficulty selection and "chumastic inner peace moment", have fun... Excelsior! best vibes and wishes to everyone!
 
+Thanks DevSEb for always collaborating with me, you are awesome, and a very talented musician, keep shining always!
+
 
 ### Special thanks
 
